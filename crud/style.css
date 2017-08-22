@@ -1,0 +1,11 @@
+.first{
+	background-color: #e2e2e2;
+}
+
+.inside .second{
+	color:red;
+}
+
+.third:hover {
+	color:green;
+}
